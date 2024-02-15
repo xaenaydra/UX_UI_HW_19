@@ -106,6 +106,10 @@ button {
 
 /* Main Content*/
 
+.responsive {
+  width: 100%;
+}
+
 .content {
   margin-top: 16px;
   height: 100%;
